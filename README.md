@@ -3,6 +3,8 @@
 ⚠️ **Aviso importante:** Esta versão do código **não deve ser usada para operar no mercado real**.  
 O objetivo deste repositório é **mostrar a evolução do projeto e habilidades em MQL5**, apenas para portfólio e aprendizado.
 
+Atualização: Eu coloquei uma trava nos indicadores que disponibilizei no iCustom para funcionar apenas em conta demonstrativas, ou seja, o robô não vai funcionar em conta real.
+
 ---
 
 ## Sobre o projeto
